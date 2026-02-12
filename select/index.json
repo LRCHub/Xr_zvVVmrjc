@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Broken Hearts",
+  "base_artist": "Def Tech",
+  "createdAt": "2026-02-12T13:16:47.949442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Some Broken Hearts Never Mend",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/01_Some_Broken_Hearts_Never_Mend_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Some Broken Hearts Never Mend (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/02_Some_Broken_Hearts_Never_Mend_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Some Broken Hearts Never Mend (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/03_Some_Broken_Hearts_Never_Mend_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Some Broken Hearts Never Mend (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/04_Some_Broken_Hearts_Never_Mend_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The King Of Broken Hearts - Pure Country/Soundtrack Version",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_The_King_Of_Broken_Hearts_-_Pure_Country_Soundtrack_Version_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Hearts Sounds Like Breakbeats",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/06_Broken_Hearts_Sounds_Like_Breakbeats_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Battle of the Broken Hearts",
+      "artist": "Mojave 3",
+      "has_synced": false,
+      "path": "select/07_Battle_of_the_Broken_Hearts_Mojave_3.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just Another Couple Broken Hearts",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/08_Just_Another_Couple_Broken_Hearts_Was_(Not_Was).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Angels (With Broken Hearts)",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/09_Angels_(With_Broken_Hearts)_Europe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Queen Of The Broken Hearts",
+      "artist": "Loverboy",
+      "has_synced": false,
+      "path": "select/10_Queen_Of_The_Broken_Hearts_Loverboy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Queen Of The Broken Hearts",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/11_Queen_Of_The_Broken_Hearts_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Fear, No Hate, No Pain (No Broken Hearts)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/12_No_Fear,_No_Hate,_No_Pain_(No_Broken_Hearts)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Leader of the Broken Hearts",
+      "artist": "Papa Roach",
+      "has_synced": true,
+      "path": "select/13_Leader_of_the_Broken_Hearts_Papa_Roach.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Broken Hearts",
+      "artist": "Imperia",
+      "has_synced": false,
+      "path": "select/14_Broken_Hearts_Imperia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Only The Broken Hearts (Make You Beautiful)",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/15_Only_The_Broken_Hearts_(Make_You_Beautiful)_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Trail of Broken Hearts",
+      "artist": "DragonForce",
+      "has_synced": false,
+      "path": "select/16_Trail_of_Broken_Hearts_DragonForce.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blue Skies, Broken Hearts ... Next 12 Exits",
+      "artist": "The Ataris",
+      "has_synced": true,
+      "path": "select/17_Blue_Skies,_Broken_Hearts_..._Next_12_Exits_The_Ataris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Broken Hearts",
+      "artist": "Def Tech",
+      "has_synced": false,
+      "path": "select/pl_01_Broken_Hearts_Def_Tech.txt"
+    }
+  ]
+}
