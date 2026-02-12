@@ -1,0 +1,53 @@
+# Def Tech – Broken Hearts
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I met you on a cold and rainy day
+Turning to go you glanced my way
+Smiles connected and you said "Hi"
+I said my name and give me a try
+Feeling the vibe I took the lead
+Candle light, roses, anything you need
+It's up to fate where this goes
+Be my girl you're it I know
+8 months have gone and went and passed us by
+What is it girl that seems to make you cry
+I thought I knew you well my friend
+忙しすぎるあなたは電話をかけ直してはくれない
+寝ても起きて目が覚めても頭の中は君でいっぱい
+着信あるたび膨らむ期待
+受信するたびにでかくなる不安
+HUH 心で泣いて顔で笑って AH HUH HUH
+You broke my heart and
+now I know true love is rare, fade away
+僕らは何なの彼女にとってはいらない縁?
+Don't you feel my passion?
+Don't want you with someone else
+本当のところ目を見て伝えて欲しいぜ
+OH 幻のように訪れては過ぎ去ってく時間と思い出
+あの時のように二人だけで
+出かけていく日々はもうなくて
+痛くなるまで君を抱いた
+痛くなくなるまで日々泣いた
+晴れた心と空を映す瞳 赤くはれたまぶた
+裂けたところを繕うように
+迎えてくれた仲間達のやさしさ
+全てが温かかった全てありがたかった
+Cuz through the cold
+and the rain you held me down
+My fam and friends with love, right with me now
+Without the support where would I be
+Sad, alone, afraid and lonely
+But now I'm back made strong by your love
+Standing tall for life, you came from above
+So I dedicate this one to you
+My fam, my friends,
+my boys, my girls and my crew
+You broke my heart and
+now I know true love is rare, fade away
+僕らは何なの彼女にとってはいらない縁?
+Don't you feel my passion?
+Don't want you with someone else
+本当のところ目を見て伝えて欲しいぜ
+```
